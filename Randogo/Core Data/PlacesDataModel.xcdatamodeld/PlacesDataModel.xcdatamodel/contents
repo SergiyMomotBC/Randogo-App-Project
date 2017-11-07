@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13209.6" systemVersion="16F73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FavoritePlace" representedClassName="FavoritePlace" syncable="YES">
+        <attribute name="categories" attributeType="Transformable" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="placeID" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="HistoryPlace" representedClassName="HistoryPlace" syncable="YES">
+        <attribute name="categories" attributeType="Transformable" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="placeID" attributeType="String" syncable="YES"/>
+        <attribute name="viewedDate" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="FavoritePlace" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="HistoryPlace" positionX="-54" positionY="18" width="128" height="105"/>
+    </elements>
+</model>

@@ -1,0 +1,200 @@
+{
+    "title":"Entertainment",
+    "subtitle":"Dance Clubs, Bowling, Golf, etc",
+    "any_selection_categories":"active,arts,nightlife",
+    "cover_image_name":"entertainment_cover",
+    "subcategories":[
+        {
+            "title":"Badminton",
+            "category_id":"badminton"
+        },
+        {
+            "title":"Baseball Fields",
+            "category_id":"baseballfields"
+        },
+        {
+            "title":"Basketball Courts",
+            "category_id":"basketballcourts"
+        },
+        {
+            "title":"Bowling",
+            "category_id":"bowling"
+        },
+        {
+            "title":"Carousels",
+            "category_id":"carousels"
+        },
+        {
+            "title":"Casinos",
+            "category_id":"casinos"
+        },
+        {
+            "title":"Fitness & Instruction",
+            "category_id":"fitness"
+        },
+        {
+            "title":"Soccer",
+            "category_id":"football"
+        },
+        {
+            "title":"Golf",
+            "category_id":"golf"
+        },
+        {
+            "title":"Kids Activities",
+            "category_id":"kids_activities"
+        },
+        {
+            "title":"Mini Golf",
+            "category_id":"mini_golf"
+        },
+        {
+            "title":"Cinema",
+            "category_id":"movietheaters"
+        },
+        {
+            "title":"Museums",
+            "category_id":"museums"
+        },
+        {
+            "title":"Opera & Ballet",
+            "category_id":"opera"
+        },
+        {
+            "title":"Paintball",
+            "category_id":"paintball"
+        },
+        {
+            "title":"Playgrounds",
+            "category_id":"playgrounds"
+        },
+        {
+            "title":"Rock Climbing",
+            "category_id":"rock_climbing"
+        },
+        {
+            "title":"Rodeo",
+            "category_id":"rodeo"
+        },
+        {
+            "title":"Sailing",
+            "category_id":"sailing"
+        },
+        {
+            "title":"Scavenger Hunts",
+            "category_id":"scavengerhunts"
+        },
+        {
+            "title":"Senior Centers",
+            "category_id":"seniorcenters"
+        },
+        {
+            "title":"Skating Rinks",
+            "category_id":"skatingrinks"
+        },
+        {
+            "title":"Sports Clubs",
+            "category_id":"sports_clubs"
+        },
+        {
+            "title":"Professional Sports Teams",
+            "category_id":"sportsteams"
+        },
+        {
+            "title":"Squash",
+            "category_id":"squash"
+        },
+        {
+            "title":"Stadiums & Arenas",
+            "category_id":"stadiumsarenas"
+        },
+        {
+            "title":"Surfing",
+            "category_id":"surfing"
+        },
+        {
+            "title":"Swimming Pools",
+            "category_id":"swimmingpools"
+        },
+        {
+            "title":"Tennis",
+            "category_id":"tennis"
+        },
+        {
+            "title":"Volleyball",
+            "category_id":"volleyball"
+        },
+        {
+            "title":"Water Parks",
+            "category_id":"waterparks"
+        },
+        {
+            "title":"Zoos",
+            "category_id":"zoos"
+        },
+        {
+            "title":"Dance Clubs",
+            "category_id":"danceclubs"
+        },
+        {
+            "title":"Jazz & Blues",
+            "category_id":"jazzandblues"
+        },
+        {
+            "title":"Karaoke",
+            "category_id":"karaoke"
+        },
+        {
+            "title":"Music Venues",
+            "category_id":"musicvenues"
+        },
+        {
+            "title":"Pool Halls",
+            "category_id":"poolhalls"
+        },
+        {
+            "title":"Beer Bar",
+            "category_id":"beerbar"
+        },
+        {
+            "title":"Cocktail Bars",
+            "category_id":"cocktailbars"
+        },
+        {
+            "title":"Hookah Bars",
+            "category_id":"hookah_bars"
+        },
+        {
+            "title":"Irish Pub",
+            "category_id":"irish_pubs"
+        },
+        {
+            "title":"Lounges",
+            "category_id":"lounges"
+        },
+        {
+            "title":"Pubs",
+            "category_id":"pubs"
+        },
+        {
+            "title":"Sports Bars",
+            "category_id":"sportsbars"
+        },
+        {
+            "title":"Wine Bars",
+            "category_id":"wine_bars"
+        },
+        {
+            "title":"Whiskey Bars",
+            "category_id":"whiskeybars"
+        },
+        {
+            "title":"Vermouth Bars",
+            "category_id":"vermouthbars"
+        },
+        {
+            "title":"Tiki Bars",
+            "category_id":"tikibars"
+        }
+    ]
+}

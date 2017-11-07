@@ -1,0 +1,460 @@
+{
+    "title":"Shopping",
+    "subtitle":"Flowers, Shoe Stores, Furniture, etc",
+    "any_selection_categories":"shopping",
+    "cover_image_name":"shopping_cover",
+    "subcategories":[
+        {
+            "title":"Adult",
+            "category_id":"adult"
+        },
+        {
+            "title":"Antiques",
+            "category_id":"antiques"
+        },
+        {
+            "title":"Arts Supplies",
+            "category_id":"artsupplies"
+        },
+        {
+            "title":"Costumes",
+            "category_id":"costumes"
+        },
+        {
+            "title":"Auction Houses",
+            "category_id":"auctionhouses"
+        },
+        {
+            "title":"Baby Gear & Furniture",
+            "category_id":"baby_gear"
+        },
+        {
+            "title":"Battery Stores",
+            "category_id":"batterystores"
+        },
+        {
+            "title":"Bespoke Clothing",
+            "category_id":"bespoke"
+        },
+        {
+            "title":"Bridal",
+            "category_id":"bridal"
+        },
+        {
+            "title":"Cannabis Dispensaries",
+            "category_id":"cannabisdispensaries"
+        },
+        {
+            "title":"Mobile Phone Accessories",
+            "category_id":"cellphoneaccessories"
+        },
+        {
+            "title":"Computers",
+            "category_id":"computers"
+        },
+        {
+            "title":"Cosmetics & Beauty Supply",
+            "category_id":"cosmetics"
+        },
+        {
+            "title":"Customized Merchandise",
+            "category_id":"custommerchandise"
+        },
+        {
+            "title":"Department Stores",
+            "category_id":"deptstores"
+        },
+        {
+            "title":"Discount Store",
+            "category_id":"discountstore"
+        },
+        {
+            "title":"Drugstores",
+            "category_id":"drugstores"
+        },
+        {
+            "title":"Duty-Free Shops",
+            "category_id":"dutyfreeshops"
+        },
+        {
+            "title":"Electronics",
+            "category_id":"electronics"
+        },
+        {
+            "title":"Farming Equipment",
+            "category_id":"farmingequipment"
+        },
+        {
+            "title":"Accessories",
+            "category_id":"accessories"
+        },
+        {
+            "title":"Children's Clothing",
+            "category_id":"childcloth"
+        },
+        {
+            "title":"Department Stores",
+            "category_id":"deptstores"
+        },
+        {
+            "title":"Formal Wear",
+            "category_id":"formalwear"
+        },
+        {
+            "title":"Fur Clothing",
+            "category_id":"furclothing"
+        },
+        {
+            "title":"Hats",
+            "category_id":"hats"
+        },
+        {
+            "title":"Leather Goods",
+            "category_id":"leather"
+        },
+        {
+            "title":"Lingerie",
+            "category_id":"lingerie"
+        },
+        {
+            "title":"Maternity",
+            "category_id":"maternity"
+        },
+        {
+            "title":"Men's Clothing",
+            "category_id":"menscloth"
+        },
+        {
+            "title":"Plus Size Fashion",
+            "category_id":"plus_size_fashion"
+        },
+        {
+            "title":"Shoe Stores",
+            "category_id":"shoes"
+        },
+        {
+            "title":"Sports Wear",
+            "category_id":"sportswear"
+        },
+        {
+            "title":"Dance Wear",
+            "category_id":"dancewear"
+        },
+        {
+            "title":"Surf Shop",
+            "category_id":"surfshop"
+        },
+        {
+            "title":"Swimwear",
+            "category_id":"swimwear"
+        },
+        {
+            "title":"Traditional Clothing",
+            "category_id":"tradclothing"
+        },
+        {
+            "title":"Used, Vintage & Consignment",
+            "category_id":"vintage"
+        },
+        {
+            "title":"Women's Clothing",
+            "category_id":"womenscloth"
+        },
+        {
+            "title":"Fireworks",
+            "category_id":"fireworks"
+        },
+        {
+            "title":"Fitness\/Exercise Equipment",
+            "category_id":"fitnessequipment"
+        },
+        {
+            "title":"Flea Markets",
+            "category_id":"fleamarkets"
+        },
+        {
+            "title":"Flowers & Gifts",
+            "category_id":"flowers"
+        },
+        {
+            "title":"Gift Shops",
+            "category_id":"giftshops"
+        },
+        {
+            "title":"Gold Buyers",
+            "category_id":"goldbuyers"
+        },
+        {
+            "title":"Guns & Ammo",
+            "category_id":"guns_and_ammo"
+        },
+        {
+            "title":"Head Shops",
+            "category_id":"headshops"
+        },
+        {
+            "title":"High Fidelity Audio Equipment",
+            "category_id":"hifi"
+        },
+        {
+            "title":"Hobby Shops",
+            "category_id":"hobbyshops"
+        },
+        {
+            "title":"Appliances",
+            "category_id":"appliances"
+        },
+        {
+            "title":"Candle Stores",
+            "category_id":"candlestores"
+        },
+        {
+            "title":"Christmas Trees",
+            "category_id":"christmastrees"
+        },
+        {
+            "title":"Furniture Stores",
+            "category_id":"furniture"
+        },
+        {
+            "title":"Grilling Equipment",
+            "category_id":"grillingequipment"
+        },
+        {
+            "title":"Hardware Stores",
+            "category_id":"hardware"
+        },
+        {
+            "title":"Holiday Decorations",
+            "category_id":"holidaydecorations"
+        },
+        {
+            "title":"Home Decor",
+            "category_id":"homedecor"
+        },
+        {
+            "title":"Hot Tub & Pool",
+            "category_id":"hottubandpool"
+        },
+        {
+            "title":"Kitchen & Bath",
+            "category_id":"kitchenandbath"
+        },
+        {
+            "title":"Mattresses",
+            "category_id":"mattresses"
+        },
+        {
+            "title":"Nurseries & Gardening",
+            "category_id":"gardening"
+        },
+        {
+            "title":"Outdoor Furniture Stores",
+            "category_id":"outdoorfurniture"
+        },
+        {
+            "title":"Paint Stores",
+            "category_id":"paintstores"
+        },
+        {
+            "title":"Playsets",
+            "category_id":"playsets"
+        },
+        {
+            "title":"Pumpkin Patches",
+            "category_id":"pumpkinpatches"
+        },
+        {
+            "title":"Rugs",
+            "category_id":"rugs"
+        },
+        {
+            "title":"Tableware",
+            "category_id":"tableware"
+        },
+        {
+            "title":"Jewelry",
+            "category_id":"jewelry"
+        },
+        {
+            "title":"Knitting Supplies",
+            "category_id":"knittingsupplies"
+        },
+        {
+            "title":"Livestock Feed & Supply",
+            "category_id":"livestocksupply"
+        },
+        {
+            "title":"Luggage",
+            "category_id":"luggage"
+        },
+        {
+            "title":"Bookstores",
+            "category_id":"bookstores"
+        },
+        {
+            "title":"Comic Books",
+            "category_id":"comicbooks"
+        },
+        {
+            "title":"Music & DVDs",
+            "category_id":"musicvideo"
+        },
+        {
+            "title":"Newspapers",
+            "category_id":"mags"
+        },
+        {
+            "title":"Video Game Stores",
+            "category_id":"videogamestores"
+        },
+        {
+            "title":"Videos & Video Game Rental",
+            "category_id":"videoandgames"
+        },
+        {
+            "title":"Vinyl Records",
+            "category_id":"vinyl_records"
+        },
+        {
+            "title":"Medical Supplies",
+            "category_id":"medicalsupplies"
+        },
+        {
+            "title":"Military Surplus",
+            "category_id":"militarysurplus"
+        },
+        {
+            "title":"Mobile Phones",
+            "category_id":"mobilephones"
+        },
+        {
+            "title":"Motorcycle Gear",
+            "category_id":"motorcyclinggear"
+        },
+        {
+            "title":"Musical Instruments & Teachers",
+            "category_id":"musicalinstrumentsandteachers"
+        },
+        {
+            "title":"Office Equipment",
+            "category_id":"officeequipment"
+        },
+        {
+            "title":"Eyewear & Opticians",
+            "category_id":"opticians"
+        },
+        {
+            "title":"Outlet Stores",
+            "category_id":"outlet_stores"
+        },
+        {
+            "title":"Pawn Shops",
+            "category_id":"pawn"
+        },
+        {
+            "title":"Perfume",
+            "category_id":"perfume"
+        },
+        {
+            "title":"Personal Shopping",
+            "category_id":"personal_shopping"
+        },
+        {
+            "title":"Photography Stores & Services",
+            "category_id":"photographystores"
+        },
+        {
+            "title":"Pop-up Shops",
+            "category_id":"popupshops"
+        },
+        {
+            "title":"Props",
+            "category_id":"props"
+        },
+        {
+            "title":"Public Markets",
+            "category_id":"publicmarkets"
+        },
+        {
+            "title":"Religious Items",
+            "category_id":"religiousitems"
+        },
+        {
+            "title":"Safe Stores",
+            "category_id":"safestores"
+        },
+        {
+            "title":"Safety Equipment",
+            "category_id":"safetyequipment"
+        },
+        {
+            "title":"Shopping Centers",
+            "category_id":"shoppingcenters"
+        },
+        {
+            "title":"Souvenir Shops",
+            "category_id":"souvenirs"
+        },
+        {
+            "title":"Spiritual Shop",
+            "category_id":"spiritual_shop"
+        },
+        {
+            "title":"Sporting Goods",
+            "category_id":"sportgoods"
+        },
+        {
+            "title":"Tabletop Games",
+            "category_id":"tabletopgames"
+        },
+        {
+            "title":"Teacher Supplies",
+            "category_id":"teachersupplies"
+        },
+        {
+            "title":"Thrift Stores",
+            "category_id":"thrift_stores"
+        },
+        {
+            "title":"Tobacco Shops",
+            "category_id":"tobaccoshops"
+        },
+        {
+            "title":"Toy Stores",
+            "category_id":"toys"
+        },
+        {
+            "title":"Trophy Shops",
+            "category_id":"trophyshops"
+        },
+        {
+            "title":"Uniforms",
+            "category_id":"uniforms"
+        },
+        {
+            "title":"Used Bookstore",
+            "category_id":"usedbooks"
+        },
+        {
+            "title":"Vape Shops",
+            "category_id":"vapeshops"
+        },
+        {
+            "title":"Vitamins & Supplements",
+            "category_id":"vitaminssupplements"
+        },
+        {
+            "title":"Watches",
+            "category_id":"watches"
+        },
+        {
+            "title":"Wholesale Stores",
+            "category_id":"wholesale_stores"
+        },
+        {
+            "title":"Wigs",
+            "category_id":"wigs"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "title":"Beauty and Care",
+    "subtitle":"Hair Salons, Day Spas, Tattoo, etc",
+    "any_selection_categories":"beautysvc",
+    "cover_image_name":"beauty_and_care_cover",
+    "subcategories":[
+        {
+            "title":"Barbers",
+            "category_id":"barbers"
+        },
+        {
+            "title":"Cosmetics & Beauty Supply",
+            "category_id":"cosmetics"
+        },
+        {
+            "title":"Eyebrow Services",
+            "category_id":"eyebrowservices"
+        },
+        {
+            "title":"Eyelash Service",
+            "category_id":"eyelashservice"
+        },
+        {
+            "title":"Hair Salons",
+            "category_id":"hair"
+        },
+        {
+            "title":"Hair Extensions",
+            "category_id":"hair_extensions"
+        },
+        {
+            "title":"Hair Loss Centers",
+            "category_id":"hairloss"
+        },
+        {
+            "title":"Hair Removal",
+            "category_id":"hairremoval"
+        },
+        {
+            "title":"Hot Springs",
+            "category_id":"hotsprings"
+        },
+        {
+            "title":"Makeup Artists",
+            "category_id":"makeupartists"
+        },
+        {
+            "title":"Massage",
+            "category_id":"massage"
+        },
+        {
+            "title":"Medical Spas",
+            "category_id":"medicalspa"
+        },
+        {
+            "title":"Nail Salons",
+            "category_id":"othersalons"
+        },
+        {
+            "title":"Perfume",
+            "category_id":"perfume"
+        },
+        {
+            "title":"Permanent Makeup",
+            "category_id":"permanentmakeup"
+        },
+        {
+            "title":"Piercing",
+            "category_id":"piercing"
+        },
+        {
+            "title":"Rolfing",
+            "category_id":"rolfing"
+        },
+        {
+            "title":"Skin Care",
+            "category_id":"skincare"
+        },
+        {
+            "title":"Day Spas",
+            "category_id":"spas"
+        },
+        {
+            "title":"Tanning",
+            "category_id":"tanning"
+        },
+        {
+            "title":"Tattoo",
+            "category_id":"tattoo"
+        },
+        {
+            "title":"Teeth Whitening",
+            "category_id":"teethwhitening"
+        }
+    ]
+}
